@@ -1,0 +1,9 @@
+{
+  "name": "Extension1",
+  "version": "1.0.0",
+  "description": "First extension",
+  "main": "index.js",
+  "repository": "https://github.com/lebedoks/tableau-extension1.git",
+  "author": "Lebedoks <jlebedoks@mimgroup.com>",
+  "license": "MIT"
+}
