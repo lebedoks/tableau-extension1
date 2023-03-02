@@ -3,7 +3,22 @@
   "version": "1.0.0",
   "description": "First extension",
   "main": "index.js",
-  "repository": "https://github.com/lebedoks/tableau-extension1.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebedoks/tableau-extension1.git"
+  },
   "author": "Lebedoks <jlebedoks@mimgroup.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3"
+  },
+  "bugs": {
+    "url": "https://github.com/lebedoks/tableau-extension1/issues"
+  },
+  "homepage": "https://github.com/lebedoks/tableau-extension1#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
